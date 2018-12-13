@@ -1,4 +1,12 @@
-export JRE_HOME=/opt/jdk-11.0.1/jre
+...welcome to the file
+
+
+export
+
+
+
+
+ JRE_HOME=/opt/jdk-11.0.1/jre
 export PATH=$PATH:$JRE_HOME/bin
 export JAVA_HOME=/opt/jdk-11.0.1
 export JAVA_PATH=$JAVA_HOME

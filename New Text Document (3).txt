@@ -1,3 +1,6 @@
+...welcome to the file
+
+
 s3 is the core object service
 S3 use cases includes backup and archives, web contents , big data analytics, static we hosting, mobile and cloud native applications and disaster Recovery.
 S3 can be integrated with IAM, KMS, EBS, EMR, DynamoDB,RedShift,SQS, Lambda and cloudfront.
