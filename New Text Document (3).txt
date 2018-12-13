@@ -1,0 +1,13 @@
+s3 is the core object service
+S3 use cases includes backup and archives, web contents , big data analytics, static we hosting, mobile and cloud native applications and disaster Recovery.
+S3 can be integrated with IAM, KMS, EBS, EMR, DynamoDB,RedShift,SQS, Lambda and cloudfront.
+Object sotrage differs from tradional block and file storage .
+Block storage manages data at device level
+File storage manages data at operation level
+object storage manages data as a object it contain both data and metadata, manipulated by an API.
+S3 buckets are containers that stores the data,and buckets names are qlobally unique.
+Ecah bucket can store the object up to 5TB and it can contain any file.
+Objects contain both data and metadata and are indentified by keys.
+S3 objects can be addressed by a unique URL formed by web servies end points.
+S3 has minimalistic API - Creare/Delete a bucket, read/write/delete objects,list keys in the buckets.
+REST Interface based on standard HTTP verbs , SDK warpper libraries , AWS CLI and AWS management Console
